@@ -3,6 +3,8 @@ Version onefile del final para la materia Algoritmos y Estructura de datos.
 
 Descargar carpeta, buscar el ejecutable llamado: 'Aplicacion.exe' y listo.
 
+La carpeta PyFile contiene todos los archivos que fueron utilizados para la creacion del ejecutable.
+
 Gracias por ver.
 Grupo PYINT - Algoritmos y Estructuras de datos 2021.
 
