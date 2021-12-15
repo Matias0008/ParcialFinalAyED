@@ -1,4 +1,9 @@
 # ParcialFinalAyED
+
+Actualizacion: Version web: https://lallegada2.herokuapp.com/
+
+
+
 Version onefile del final para la materia Algoritmos y Estructura de datos.
 
 Descargar carpeta, buscar el ejecutable llamado: 'Aplicacion.exe' y listo.
